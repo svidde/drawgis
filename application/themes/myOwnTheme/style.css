@@ -1,0 +1,21 @@
+@import url(../../../themes/grid/style.php);
+
+/*html{background-color:#FFE2B3;}
+body{background-color:#D0DCE1;}
+#outer-wrap-header{background-color:#FFE2B3;border-bottom:2px solid #FFCE80}
+#outer-wrap-footer{background-color:#FFE2B3}
+a{color:#436370}*/
+
+.submitbtn {
+	background-color:transparent;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	border: none;;
+}.submitbtn:active {
+}.submitbtn:hover {
+	text-decoration: underline;
+}
